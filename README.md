@@ -6,5 +6,5 @@
 
 - Git
 
-## Al-technológiák
+## Képek
 ![alt text](<Képernyőkép 2025-09-15 091917.png>)
