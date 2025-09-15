@@ -1,9 +1,10 @@
-Projekt neve
+# Projekt neve
 
-Projekt leírás
+## Projekt leírás
 
-Technológiák
+### Technológiák
 
-Git
+- Git
 
-Al-techno
+## Al-technológiák
+![alt text](<Képernyőkép 2025-09-15 091917.png>)
